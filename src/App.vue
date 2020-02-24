@@ -14,10 +14,6 @@ export default {
 
   components: {
     Playground
-  },
-
-  data: () => ({
-    //
-  })
+  }
 }
 </script>
